@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+<p align="center"><img height="300em" src="https://github-readme-stats.vercel.app/api?username=trianglium&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="trianglium" align = "center"/>
+</p>
+
+<p align="center"><img alt="Jordan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trianglium&bg_color=0c1014&color=2a856e&title_color=2aa889&line=2aa889&point=99d1ce&hide_border=true&" /></p>
+<br>
+
+
+<img src="https://komarev.com/ghpvc/?username=trianglium" />
