@@ -18,13 +18,12 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"><img height="300em" src="https://github-readme-stats.vercel.app/api?username=trianglium&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Jordan's stats card"/>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=400&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card"/>
 </p>
+<p align="right"><img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala"/></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=10" alt="Jordan's Top Languages"/></p>
 
-
-<p align="center"><img alt="Jordan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trianglium&bg_color=0c1014&color=2a856e&title_color=2aa889&line=2aa889&point=99d1ce&hide_border=true&" /></p>
+<p align="center"><img alt="Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trianglium&bg_color=0c1014&color=2a856e&title_color=2aa889&line=2aa889&point=99d1ce&hide_border=true&" /></p>
 <br>
 
 
