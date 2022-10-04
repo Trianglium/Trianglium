@@ -1,8 +1,13 @@
 <!-- Introduction -->
 <div style="text-align: center">
-<img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle; transform:scaleX(-1);"/><span><h1 style="display:inline;">Hi, I'm Jordan</h1></span><img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle"/>
+<h2 align="center"><img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle; transform:scaleX(-1);" align="left"/>Hi, I'm Jordan <img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle" align="right"/></h2>
+  <br/>
 </div>
 
+
+
+
+___
 
 
 <!--
@@ -21,14 +26,14 @@ Here are some ideas to get you started:
 -->
 
 <!-- Repo Stats -->
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=300&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;display:inline;" align="left" width="45%"/>
-</div>
-
+<div style="padding-top:25px; margin-top:10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=200&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;display:inline;" align="left" width="40%"/>
+  
 <!-- Technologies, Languages, Frameworks, etc -->
-<div>
 <img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;display:inline;" align="right" width="45%"/>
 </div>
+
+
 
 <!-- Contribution Graph -->
 <div>
