@@ -1,4 +1,9 @@
-### Hi there 👋
+<!-- Introduction -->
+<div style="text-align: center">
+<img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle; transform:scaleX(-1);"/><span style="font-size: 1.6em">Hi, I'm Jordan</span><img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle"/>
+</div>
+
+
 
 <!--
 **Trianglium/Trianglium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +20,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- Repo Stats -->
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=300&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;" width="50%"/>
+</div>
+
+<!-- Technologies, Languages, Frameworks, etc -->
+<div>
+<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;" width="50%"/>
+</div>
+
+<!-- Contribution Graph -->
+<div>
+<img alt="Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trianglium&bg_color=0c1014&color=2a856e&title_color=2aa889&line=2aa889&point=99d1ce&hide_border=true" style="vertical-align:middle"/>
+</div>
 
 
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=400&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card"/>
-</p>
-<p align="right"><img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala"/></p>
+
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=trianglium" style="vertical-align:middle"/>
 
 
-<p align="center"><img alt="Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trianglium&bg_color=0c1014&color=2a856e&title_color=2aa889&line=2aa889&point=99d1ce&hide_border=true&" /></p>
-<br>
 
 
-<img src="https://komarev.com/ghpvc/?username=trianglium" />
