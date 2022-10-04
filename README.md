@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- Repo Stats -->
-<div style="display:inline;">
-<img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=300&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;" width="50%"/>
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=300&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;display:inline;" width="50%"/>
 </div>
 
 <!-- Technologies, Languages, Frameworks, etc -->
-<div style="display:inline;">
-<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;" width="50%"/>
+<div>
+<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;display:inline;" width="50%"/>
 </div>
 
 <!-- Contribution Graph -->
