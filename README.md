@@ -43,8 +43,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=trianglium" style="vertical-align:middle"/>
+
 
 
 
