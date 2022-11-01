@@ -25,6 +25,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- Hacktoberfest 2022
+<div style="padding-top:25px; margin-top:10px;">
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" alt="Hacktoberfest 2022" class="mx-auto max-w-75 h-auto align-middle" style="object-fit: contain; cursor: pointer; width: 10%; aspect-ratio: 1 / 1; transform: rotate(0deg);" loading="lazy" title="">
+</div>
+ -->
+
 <!-- Repo Stats -->
 <div style="padding-top:25px; margin-top:10px;">
 <img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=200&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;display:inline;" align="left" width="40%"/>
