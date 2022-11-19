@@ -58,3 +58,21 @@
 
 
 
+
+
+
+
+<hr/>
+
+<h2 align="center">🏆 A Few Accomplishments</h2>
+<p align="center">
+<img width="140px" height="140px" alt="Hacktoberfest 2022" src="./assets/badges/hacktoberfest2022-badge.png" />
+<img width="125px" height="125px" alt="Open Source Software Development, Linux and Git Specialization" src="./assets/badges/open-source-software-development-linux-and-git-specialization.png" />
+<img width="140px" height="140px" alt="Google IT Automation Professional Certificate" src="./assets/badges/google-it-automation-certificate.png" />
+</p>
+
+
+<hr/>
+
+
+
