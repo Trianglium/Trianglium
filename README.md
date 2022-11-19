@@ -1,56 +1,23 @@
-<!-- Introduction -->
+<!-- Introduction
 <div style="text-align: center">
-<h2 align="center"><img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle; transform:scaleX(-1);" align="left"/>Hi, I'm Jordan <img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle" align="right"/></h2>
+<h2 align="center">
+
+<img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle; transform:scaleX(-1);" align="left"/>Hi, I'm Jordan <img alt="stars" width="10%" src="https://media.giphy.com/media/1n98C6J1I3vy31q9Bl/giphy.gif" style="vertical-align:middle" align="right"/></h2>
   <br/>
 </div>
 
-
-
-
-___
-
-
-<!--
-**Trianglium/Trianglium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
-<!-- Hacktoberfest 2022
-<div style="padding-top:25px; margin-top:10px;">
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--rX-dH2o3--/c_limit,f_auto,fl_progressive,q_80,w_180/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" alt="Hacktoberfest 2022" class="mx-auto max-w-75 h-auto align-middle" style="object-fit: contain; cursor: pointer; width: 10%; aspect-ratio: 1 / 1; transform: rotate(0deg);" loading="lazy" title="">
-</div>
- -->
 
-<!-- Repo Stats -->
-<div style="padding-top:25px; margin-top:10px;">
-<img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=200&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=gotham" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;display:inline;" align="left" width="40%"/>
-  
-<!-- Technologies, Languages, Frameworks, etc -->
-<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=6&layout=compact&theme=gotham&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;display:inline;" align="right" width="45%"/>
-</div>
+<h1 align="center">Hi, I'm Jordan</h1>
 
-
-
-<!-- Contribution Graph -->
-<div>
-<img alt="Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trianglium&bg_color=0c1014&color=2a856e&title_color=2aa889&line=2aa889&point=99d1ce&hide_border=true" style="vertical-align:middle;" width="100%"/>
-</div>
-
-
-
-
-
+<p align="center">
+<a href="https://github.com/Trianglium"><img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jordan-brocker-rudow/"><img alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:jbrockerrudow@gmail.com"><img alt="Gmail Address" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://dev.to/trianglium"><img alt="Dev.to" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+</p>
 
 
 
