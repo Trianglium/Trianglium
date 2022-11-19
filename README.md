@@ -76,3 +76,25 @@
 
 
 
+<h2 align="center">⚡ Github Statistics</h2>
+<!-- Contribution Graph -->
+<div>
+<img alt="Contribution Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=trianglium&bg_color=000000&color=9f4bff&title_color=9745f5&line=ffffff&point=9745f5&hide_border=true" style="vertical-align:middle;" width="100%"/>
+</div>
+
+<!-- Repo Stats -->
+<div style="padding-top:25px; margin-top:10px;">
+<img src="https://github-readme-stats.vercel.app/api?username=trianglium&card_width=200&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple" alt="Repo Stats Card" style="vertical-align:middle;float:left;overflow:auto;display:inline;" align="left" width="40%"/>
+  
+<!-- Technologies, Languages, Frameworks, etc -->
+<img alt="Top Languages Card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trianglium&langs_count=6&layout=compact&theme=midnight-purple&hide_border=true&hide=html,groovy,ruby,jupyter%20notebook,scala" style="vertical-align:middle; float:right; overflow:auto;display:inline;" align="right" width="45%"/>
+</div>
+
+
+<!-- WakaTime
+https://github.com/athul/waka-readme
+-->
+
+<!-- Streak Stats
+https://github.com/DenverCoder1/github-readme-streak-stats
+-->
